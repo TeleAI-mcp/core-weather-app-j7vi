@@ -1,2 +1,3 @@
-# core-weather-app-j7vi
-Automated issue comment bot repository
+# Core Weather App J7Vi
+
+Automated issue comment bot repository.
